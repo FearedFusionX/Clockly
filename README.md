@@ -1,2 +1,4 @@
-# Clockly
-Some clock I made using Turbowarp lol
+# Turbowarp Projects
+## Originally named Clockly
+
+Projects I made using Turbowarp lol
